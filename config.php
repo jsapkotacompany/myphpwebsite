@@ -1,5 +1,5 @@
 <?php
-   define('DB_SERVER', 'localhost6');
+   define('DB_SERVER', 'localhost');
    define('DB_USERNAME', 'mywebappadmin');
    define('DB_PASSWORD', 'mywebappadmin');
    define('DB_DATABASE', 'mywebappdb');
